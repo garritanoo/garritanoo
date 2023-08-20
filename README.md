@@ -2,7 +2,7 @@
 # Juarez Garritano
 > Analista de Dados | Cientista de Dados
 
-Sou graduado em Comunicação Social, mas sempre tive facínio por programação.
+Sou graduado em Comunicação Social, mas sempre tive fascínio por programação.
 Porém, no início atuei como Designer Gráfico, e alguns anos depois como Web Designer. 
 
 E há cerca de 1 anos conheci a _Ciência de Dados_ e tenho me empenhado cada vez mais para trilhar a minha carreira nessa carreira que me escolheu.
