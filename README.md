@@ -12,12 +12,13 @@ E há cerca de 1 anos conheci a _Ciência de Dados_ e tenho me empenhado cada ve
 [![Gmail](https://img.shields.io/badge/Gmail-1B1C1E?style=for-the-badge&logo=gmail&logoColor=C71610)](mailto:garritanoo@gmail.com)
 
 ## Habilidades
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0E76A8)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=green)
-![Sqlite](https://img.shields.io/badge/Sqlite-000?style=for-the-badge&logo=Sqlite&logoColor=0E76A8)
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=ORANGE)
-![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=EEE)
-![Streamlit](https://img.shields.io/badge/streamlit-000?style=for-the-badge&logo=streamlit&logoColor=red)
+![Python](https://img.shields.io/badge/python-1B1C1E?style=for-the-badge&logo=python&logoColor=0E76A8)
+![Pandas](https://img.shields.io/badge/Pandas-1B1C1E?style=for-the-badge&logo=pandas&logoColor=green)
+![Jupyter](https://img.shields.io/badge/Jupyter-1B1C1E?style=for-the-badge&logo=jupyter&logoColor=dark-orange)
+![Sqlite](https://img.shields.io/badge/Sqlite-1B1C1E?style=for-the-badge&logo=Sqlite&logoColor=0E76A8)
+![Git](https://img.shields.io/badge/git-1B1C1E?style=for-the-badge&logo=git&logoColor=ORANGE)
+![Github](https://img.shields.io/badge/github-1B1C1E?style=for-the-badge&logo=github&logoColor=EEE)
+![Streamlit](https://img.shields.io/badge/streamlit-1B1C1E?style=for-the-badge&logo=streamlit&logoColor=red)
 
 ## Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garritanoo&theme=transparent&bg_color=303030&border_color=1B1C1E&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_rank=True)
