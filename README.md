@@ -21,7 +21,7 @@ E há cerca de 1 anos conheci a _Ciência de Dados_ e tenho me empenhado cada ve
 ![Streamlit](https://img.shields.io/badge/streamlit-1B1C1E?style=for-the-badge&logo=streamlit&logoColor=red)
 
 ## Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garritanoo&theme=transparent&bg_color=303030&border_color=1B1C1E&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_rank=True)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garritanoo&theme=transparent&bg_color=1B1C1E&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_rank=True)
 
 ## Projetos
 |Tipo do Projeto | Nome do Projeto | Link |
