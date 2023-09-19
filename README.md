@@ -5,7 +5,7 @@
 Sou graduado em Comunicação Social, mas sempre tive fascínio por programação.
 Porém, no início atuei como Designer Gráfico, e alguns anos depois como Web Designer. 
 
-E há cerca de 1 anos conheci a _Ciência de Dados_ e tenho me empenhado cada vez mais para trilhar a minha carreira nessa carreira que me escolheu.
+E há cerca de um ano conheci a _Ciência de Dados_ e tenho me empenhado cada vez mais para trilhar a minha carreira nessa carreira que me escolheu.
 
 ## Conecte-se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/garritanoo/)
